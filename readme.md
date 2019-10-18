@@ -1,6 +1,6 @@
 # Jared Claypoole
 
-This is meant to serve as the beginning of my personal website.
+This is meant to serve as the barebones beginning of my personal website.
 
 ## Featured project
 
