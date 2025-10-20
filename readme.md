@@ -2,8 +2,6 @@
 
 This is meant to serve as the barebones beginning of my personal website.
 
-## Featured project
+## Resume
 
-See my [autograder demo][gh-autograder-demo] project on github
-
-[gh-autograder-demo]: https://github.com/jjc385/autograder-demo
+View my [resume](https://github.com/jjc385/jjc385.github.io/blob/master/resume.pdf).
